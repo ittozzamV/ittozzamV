@@ -2,7 +2,7 @@
 <h3 align="center">Scientific computing passionate, still learning a lot</h3>
 
 
-<p align="left"> <a href="https://twitter.com/@victormazzotti" target="blank"><img src="https://img.shields.io/twitter/follow/@victormazzotti?logo=twitter&style=for-the-badge" alt="@victormazzotti" /></a> </p>
+<p align="left"> <a href="https://twitter.com/victormazzotti" target="blank"><img src="https://img.shields.io/twitter/follow/victormazzotti?logo=twitter&style=for-the-badge" alt="victormazzotti" /></a> </p>
 
 - 🎶 Working on **data science, scientific calculators, physics simulators and any random ideas that come up**
 
