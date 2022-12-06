@@ -2,8 +2,6 @@
 <h3 align="center">Scientific computing passionate, still learning a lot</h3>
 
 
-<p align="left"> <a href="https://twitter.com/victormazzotti" target="blank"><img src="https://img.shields.io/twitter/follow/victormazzotti?logo=twitter&style=for-the-badge" alt="victormazzotti" /></a> </p>
-
 - 🎶 Working on **data science, scientific calculators, physics simulators and any random ideas that come up**
 
 - 💧 I’m currently learning **Julia, Python, C#, Unity and TypeScript**
@@ -20,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@victormazzotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@victormazzotti" height="30" width="40" /></a>
-<a href="https://instagram.com/@_victormazzotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_victormazzotti" height="30" width="40" /></a>
+<a href="https://twitter.com/victormazzotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victormazzotti" height="30" width="40" /></a>
+<a href="https://instagram.com/_victormazzotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_victormazzotti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
