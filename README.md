@@ -10,7 +10,7 @@
 
 - ❓ You can ask me about **mathematics and physics models**
 
-- 📫 How to reach me **victormazzottia@gmail.com**
+- 📫 Reach me at **victormazzottia@gmail.com**
 
 - 😄 Pronous **he/him**
 
