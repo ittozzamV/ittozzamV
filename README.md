@@ -1,4 +1,4 @@
-<h1 align="center">Здравствуйте,👐 My name is Victor Mazzotti</h1>
+<h1 align="center">Здравствуйте 👐. My name is Victor Mazzotti</h1>
 <h3 align="center">Scientific computing passionate, still learning a lot</h3>
 
 
