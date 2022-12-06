@@ -1,7 +1,6 @@
 <h1 align="center">Здравствуйте,👐 My name is Victor Mazzotti</h1>
 <h3 align="center">Scientific computing passionate, still learning a lot</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ittozzamv" alt="ittozzamv" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@victormazzotti" target="blank"><img src="https://img.shields.io/twitter/follow/@victormazzotti?logo=twitter&style=for-the-badge" alt="@victormazzotti" /></a> </p>
 
