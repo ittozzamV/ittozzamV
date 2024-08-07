@@ -2,19 +2,15 @@
 <h3 align="center">Scientific computing passionate, still learning a lot</h3>
 
 
-- 🎶 Working on **data science, scientific calculators, physics simulators and any random ideas that come up**
+- 🎶 Working on **data science, physics models**
 
-- 💧 I’m currently learning **Julia, Python, C#, Unity and TypeScript**
+- 💧 I’m currently learning **Julia, Python, C**
 
-- 🤝 I’m looking for help with **differential equations algorithms**
-
-- ❓ You can ask me about **mathematics and physics models**
+- ❓ You can ask me about **Mathematics and physics models**
 
 - 📫 Reach me at **victormazzottia@gmail.com**
 
 - 😄 Pronous **he/him**
-
-- ⚡ Fun fact **blue pen pen blue**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
