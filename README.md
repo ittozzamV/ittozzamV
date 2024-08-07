@@ -1,14 +1,12 @@
 <h1 align="center">Здравствуйте 👐. My name is Victor Mazzotti</h1>
-<h3 align="center">Scientific computing passionate, still learning a lot</h3>
 
+- Undegrad student in **mathematical physics** at **UNICAMP**
 
-- 🎶 Working on **data science, physics models**
+- Working on **data science, physics models**
 
-- ❓ You can ask me about **mathematics and physics models**
+- Reach me at **victormazzottia@gmail.com**
 
-- 📫 Reach me at **victormazzottia@gmail.com**
-
-- 😄 Pronous **he/him**
+- Pronous **he/him**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
