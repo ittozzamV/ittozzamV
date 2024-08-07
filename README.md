@@ -4,9 +4,7 @@
 
 - 🎶 Working on **data science, physics models**
 
-- 💧 I’m currently learning **Julia, Python, C**
-
-- ❓ You can ask me about **Mathematics and physics models**
+- ❓ You can ask me about **mathematics and physics models**
 
 - 📫 Reach me at **victormazzottia@gmail.com**
 
